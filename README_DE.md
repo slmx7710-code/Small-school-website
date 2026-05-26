@@ -91,6 +91,7 @@ Passwortverschlüsselung mit password_hash
 Such- und Filterfunktionen zu implementieren
 Relationale Datenbanken zu verstehen
 CRUD-Systeme für Benutzerprofile zu entwickeln
+
 Fazit
 
 Dieses Projekt ist ein wichtiger Schritt in meiner Entwicklung als Webentwickler und zeigt meine Fähigkeit, vollständige Webanwendungen zu erstellen.
