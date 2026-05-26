@@ -1,1 +1,0 @@
-# Small-school-website
